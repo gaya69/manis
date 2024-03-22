@@ -1,0 +1,1 @@
+Mozilla/5.0 (Linux; Android 11; SM-J530F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/28.9 Chrome/109.0.4441.34 Mobile Safari/537.36
